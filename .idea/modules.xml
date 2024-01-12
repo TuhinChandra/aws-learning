@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AWS_Learning.iml" filepath="$PROJECT_DIR$/.idea/AWS_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aws-learning.iml" filepath="$PROJECT_DIR$/.idea/aws-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world-api.main.iml" />
     </modules>
   </component>
 </project>
